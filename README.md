@@ -1,24 +1,24 @@
-<h1 align="center"> ɢɪғᴛᴇᴅ ᴍᴅ Version 2.5.0 </h1> 
+<h1 align="center"> 𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋 </h1> 
  <br>
 
 
 
-<p align="center"> Introducing ɢɪғᴛᴇᴅ ʙᴏᴛ v2.5.0, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+<p align="center"> Introducing 𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋ɢɪғᴛᴇᴅ, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
-  <a href="https://github.com/mouricedevs/Gifted-Md">
-    <img alt="Gifted docs" height="300" src="https://telegra.ph/file/54efddccf41281ad7ec51.jpg">
+  <a href="https://github.com/SilvaTechB/SilvaGifted">
+    <img alt="Gifted docs" height="300" src="https://telegra.ph/file/751eef74109e0e5c8916c.jpg">
   </a>
 </p>
     
    
    
 <p align="center">
-  <a href="https://wa.me/+254728782591?text=Hi+Bro--+I+Need+Help.+I've+messaged+you+from+ɢɪғᴛᴇᴅ ʙᴏᴛ+Repo" target="_blank">
+  <a href="https://wa.me/+254700143167?text=Hi+Bro--+I+Need+Help.+I've+messaged+you+from+𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋ɢɪғᴛᴇᴅ ʙᴏᴛ+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
-  <a aria-label="ɢɪғᴛᴇᴅ ʙᴏᴛ v.2.5.0 is free to use" href="https://github.com/mouricedevs/Gifted-Md" target="_blank">
-    <img alt="GiftedTech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋ɢɪғᴛᴇᴅ ʙᴏᴛ is free to use" href="https://github.com/SilvaTechB/SilvaGifted" target="_blank">
+    <img alt="SILVA TECH" src="https://img.shields.io/tiktok/profile/followers/@silva.edits6" target="_blank" />
   </a>
 
 </p>
