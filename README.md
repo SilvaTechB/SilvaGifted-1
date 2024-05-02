@@ -16,20 +16,16 @@
 <p align="center">
   <a href="https://wa.me/+254700143167?text=Hi+Bro--+I+Need+Help.+I've+messaged+you+from+𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋ɢɪғᴛᴇᴅ ʙᴏᴛ+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
- 
-  <a aria-label="𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋ɢɪғᴛᴇᴅ ʙᴏᴛ is free to use" href="https://github.com/SilvaTechB/SilvaGifted" target="_blank">
-    <img alt="SILVA TECH" src="https://img.shields.io/tiktok/profile/followers/@silva.edits6" target="_blank" />
-  </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{mouricedevs}/count.svg" alt="ɢɪғᴛᴇᴅ ᴍᴅ :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{SilvaTechB}/count.svg" alt="ɢɪғᴛᴇᴅ ᴍᴅ :: Visitor's Count" /></p>
 
 ---
 
 
 
 
-<p align="center"> ɢɪғᴛᴇᴅ ᴍᴅ V.2.5.0 uses
+<p align="center"> 𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋ɢɪғᴛᴇᴅ uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -39,11 +35,11 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/mouricedevs/Gifted-Md"><b>Gifted-Md V.2.5.0</b></a> Support Deploy On...
+  <a href="https://github.com/SilvaTechB/SilvaGifted"><b>Gifted-Md V.2.5.0</b></a> Support Deploy On...
 </p>
 
 <p align="center">
-  <a href="https://github.com/mouricedevs/Gifted-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://github.com/SilvaTechB/SilvaGifted/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
   <a href="https://railway.app/template/GZOvIe?referralCode=wVDLrh"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
 </p>
 <p align="center">
@@ -57,24 +53,9 @@
 <p align="center">Need help? please create an <a href="https://github.com/mouricedevs/Gifted-Md/issues">issue</a></p>
 
 
-
-## Some of Gifted-Md Bot Games:
----
-1. ***Connect Four Game(cfg).***
-2.  ***Tic Tac Toe.***
-3.  ***Number Guessing Game(ngg).***
-4.  ***Word chain Game(wcg).***
-5.  ***Hidden Card Game(hcg).***
-6.  ***Rolling Dice.***
-7.  ***Character Guessing Game(cgg).***
-8.  ***Capital of City Finding(ccf).***
-##
-
----
-
  <h3>Gifted-MD V.2.5.0 Stats</h3>
 
-![Giftd-mdV2 Stats](https://github-readme-stats.vercel.app/api/pin/?username=mouricedevs&repo=Gifted-Md&show_owner=true&theme=dark)
+![Giftd-mdV2 Stats](https://github-readme-stats.vercel.app/api/pin/?username=SilvaTechB&repo=SilvaGifted&show_owner=true&theme=dark)
 
 
 
@@ -96,11 +77,11 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then [`Whatsapp Me Here`](https://wa.me/message/NHCZC5DSOEUXB1)
+- If any problem, then [`Whatsapp Me Here`](https://wa.me/message/254700143167)
 
 
 ### I Am
-- [Gifted Tech](https://github.com/mouricedevs) 
+- [Silva Tech](https://github.com/SilvaTechB) 
 
 ---
 ### Credits to:
